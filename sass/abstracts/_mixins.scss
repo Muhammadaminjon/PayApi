@@ -1,0 +1,8 @@
+@mixin small-title {
+    font-family: $text-fonts;
+    font-weight: 700;
+    font-size: 1.8rem;
+    line-height: 1.38;
+    letter-spacing: -0.14px;
+    color: $color-juan-blue;
+}
